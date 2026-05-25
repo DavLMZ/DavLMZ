@@ -35,7 +35,7 @@ AI-native tools in my daily workflow: **Claude Code** · **OpenAI Codex** · **L
 
 - **Data Champions Program** — structured adoption model for strategic accounts, built and scaled at Tableau/Salesforce
 - **Global AI Enablement programme** — led at Salesforce, upskilling 40+ CSMs on LLM integration
-- **AI-Native GTM Frameworks** — public methodology repo, in progress
+- **[AI-Native GTM Frameworks](https://github.com/DavLMZ/ai-native-gtm)** — public methodology repo with operating models, scoring frameworks, scale playbooks, and reusable LLM prompts
 
 ---
 
